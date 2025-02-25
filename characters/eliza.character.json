@@ -1,8 +1,8 @@
 {
   "name": "Eliza",
-  "plugins": [],
+  "plugins": ["telegram"],
   "clients": [],
-  "modelProvider": "openrouter",
+  "modelProvider": "openai",
   "settings": {
     "secrets": {},
     "voice": {
