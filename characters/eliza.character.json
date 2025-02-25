@@ -1,7 +1,7 @@
 {
   "name": "Eliza",
-  "plugins": ["telegram"],
-  "clients": [],
+  "plugins": [],
+  "clients": ["telegram"],
   "modelProvider": "openai",
   "settings": {
     "secrets": {},
